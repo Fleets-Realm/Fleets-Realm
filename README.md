@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fleets-Realm
-- I want to start my coding journey and use github to store all my codes i make as become better
+- I want to start my coding journey and use github to store all my codes i make as i become more experienced
 
 <!---
 Fleets-Realm/Fleets-Realm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
